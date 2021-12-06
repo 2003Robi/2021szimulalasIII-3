@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638809847 source:c:\c++\2021szimulalasiii-3\main.cpp
+	<iostream>
+	<fstream>
+
